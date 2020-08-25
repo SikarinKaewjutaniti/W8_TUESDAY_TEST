@@ -1,0 +1,11 @@
+commit cfcf32941f69b5344bcc11d1d5700063b305dbf5
+Author: Sikarin <s6001012630152@email.kmutnb.ac.th>
+Date:   Tue Aug 25 16:04:35 2020 +0700
+
+    trying to do undo function
+
+commit 56556f90beb3fcb435c1975ed78f81937f435841
+Author: Sikarin <s6001012630152@email.kmutnb.ac.th>
+Date:   Mon Aug 24 16:10:26 2020 +0700
+
+    try on git
